@@ -4,4 +4,3 @@
 
 layout: home
 ---
-It seems nothing changes in this page
