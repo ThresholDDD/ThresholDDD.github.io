@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: "麻醉风暴1和2的比较"
 date:2020-01-09
 ---
 
